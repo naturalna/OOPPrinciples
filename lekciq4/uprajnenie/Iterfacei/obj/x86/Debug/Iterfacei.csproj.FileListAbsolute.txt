@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\Iterfacei\bin\Debug\Iterfacei.exe
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\Iterfacei\bin\Debug\Iterfacei.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\Iterfacei\obj\x86\Debug\Iterfacei.exe
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\Iterfacei\obj\x86\Debug\Iterfacei.pdb

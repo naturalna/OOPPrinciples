@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\menu\menu\menu\obj\x86\Debug\menu.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\menu\menu\menu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\menu\menu\menu\bin\x86\Debug\menu.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\menu\menu\menu\bin\x86\Debug\menu.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\menu\menu\menu\obj\x86\Debug\menu.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\menu\menu\menu\obj\x86\Debug\menu.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\menu\menu\menu\bin\x86\Debug\Content\Background4.xnb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\menu\menu\menu\bin\x86\Debug\Content\imagesButton.xnb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\menu\menu\menu\bin\x86\Debug\Content\button.xnb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\menu\menu\menu\bin\x86\Debug\Content\background41.xnb

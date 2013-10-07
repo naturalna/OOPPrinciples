@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Object-Oriented-Programming-Principles-Part-II\Simple-Exception-Class\bin\Debug\Simple-Exception-Class.exe.config
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Object-Oriented-Programming-Principles-Part-II\Simple-Exception-Class\bin\Debug\Simple-Exception-Class.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Object-Oriented-Programming-Principles-Part-II\Simple-Exception-Class\bin\Debug\Simple-Exception-Class.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Object-Oriented-Programming-Principles-Part-II\Simple-Exception-Class\bin\Debug\Polymorphism.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Object-Oriented-Programming-Principles-Part-II\Simple-Exception-Class\bin\Debug\Polymorphism.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Object-Oriented-Programming-Principles-Part-II\Simple-Exception-Class\obj\Debug\3. Simple-Exception-Class.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Object-Oriented-Programming-Principles-Part-II\Simple-Exception-Class\obj\Debug\Simple-Exception-Class.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Object-Oriented-Programming-Principles-Part-II\Simple-Exception-Class\obj\Debug\Simple-Exception-Class.pdb

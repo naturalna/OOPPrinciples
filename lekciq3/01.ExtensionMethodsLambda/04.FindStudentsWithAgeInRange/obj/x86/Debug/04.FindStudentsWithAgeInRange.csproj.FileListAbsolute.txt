@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\04.FindStudentsWithAgeInRange\bin\Debug\04.FindStudentsWithAgeInRange.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\04.FindStudentsWithAgeInRange\bin\Debug\04.FindStudentsWithAgeInRange.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\04.FindStudentsWithAgeInRange\obj\x86\Debug\04.FindStudentsWithAgeInRange.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\04.FindStudentsWithAgeInRange\obj\x86\Debug\04.FindStudentsWithAgeInRange.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq3\HW\01.ExtensionMethodsLambda\01.ExtensionMethodsLambda\04.FindStudentsWithAgeInRange\obj\x86\Debug\04.FindStudentsWithAgeInRange.exe
+C:\Users\user\Desktop\teleric\oop\lekciq3\HW\01.ExtensionMethodsLambda\01.ExtensionMethodsLambda\04.FindStudentsWithAgeInRange\obj\x86\Debug\04.FindStudentsWithAgeInRange.pdb

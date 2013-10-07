@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\CTS\StudentEntryPoint\bin\Debug\StudentEntryPoint.exe.config
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\CTS\StudentEntryPoint\bin\Debug\StudentEntryPoint.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\CTS\StudentEntryPoint\bin\Debug\StudentEntryPoint.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\CTS\StudentEntryPoint\obj\x86\Debug\StudentEntryPoint.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\CTS\StudentEntryPoint\obj\x86\Debug\StudentEntryPoint.pdb

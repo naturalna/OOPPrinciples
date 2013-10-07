@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\upr5\help\bin\Debug\help.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\upr5\help\bin\Debug\help.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\upr5\help\obj\x86\Debug\help.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\upr5\help\obj\x86\Debug\help.pdb

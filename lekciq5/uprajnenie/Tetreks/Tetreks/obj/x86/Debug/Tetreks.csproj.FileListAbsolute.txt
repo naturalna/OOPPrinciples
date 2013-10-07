@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Tetreks\Tetreks\bin\Debug\Tetreks.exe.config
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Tetreks\Tetreks\bin\Debug\Tetreks.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Tetreks\Tetreks\bin\Debug\Tetreks.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Tetreks\Tetreks\obj\x86\Debug\Tetreks.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Tetreks\Tetreks\obj\x86\Debug\Tetreks.pdb

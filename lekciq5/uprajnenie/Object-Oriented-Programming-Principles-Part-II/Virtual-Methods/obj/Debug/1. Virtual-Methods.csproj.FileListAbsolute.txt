@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Object-Oriented-Programming-Principles-Part-II\Virtual-Methods\bin\Debug\Virtual-Methods.exe.config
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Object-Oriented-Programming-Principles-Part-II\Virtual-Methods\bin\Debug\Virtual-Methods.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Object-Oriented-Programming-Principles-Part-II\Virtual-Methods\bin\Debug\Virtual-Methods.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Object-Oriented-Programming-Principles-Part-II\Virtual-Methods\obj\Debug\Virtual-Methods.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Object-Oriented-Programming-Principles-Part-II\Virtual-Methods\obj\Debug\Virtual-Methods.pdb

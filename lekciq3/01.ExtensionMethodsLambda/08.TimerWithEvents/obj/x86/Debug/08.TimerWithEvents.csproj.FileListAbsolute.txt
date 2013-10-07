@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\08.TimerWithEvents\bin\Debug\08.TimerWithEvents.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\08.TimerWithEvents\bin\Debug\08.TimerWithEvents.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\08.TimerWithEvents\obj\x86\Debug\08.TimerWithEvents.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\08.TimerWithEvents\obj\x86\Debug\08.TimerWithEvents.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq3\HW\01.ExtensionMethodsLambda\01.ExtensionMethodsLambda\08.TimerWithEvents\obj\x86\Debug\08.TimerWithEvents.exe
+C:\Users\user\Desktop\teleric\oop\lekciq3\HW\01.ExtensionMethodsLambda\01.ExtensionMethodsLambda\08.TimerWithEvents\obj\x86\Debug\08.TimerWithEvents.pdb

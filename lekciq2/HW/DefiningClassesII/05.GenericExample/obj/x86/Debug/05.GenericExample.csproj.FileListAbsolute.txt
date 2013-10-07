@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\05.GenericExample\bin\Debug\05.GenericExample.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\05.GenericExample\bin\Debug\05.GenericExample.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\05.GenericExample\obj\x86\Debug\05.GenericExample.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\05.GenericExample\obj\x86\Debug\05.GenericExample.pdb

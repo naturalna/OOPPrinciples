@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\upr5\upr5\bin\Debug\upr5.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\upr5\upr5\bin\Debug\upr5.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\upr5\upr5\obj\x86\Debug\upr5.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\upr5\upr5\obj\x86\Debug\upr5.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\upr5\upr5\obj\x86\Debug\upr5.csprojResolveAssemblyReference.cache

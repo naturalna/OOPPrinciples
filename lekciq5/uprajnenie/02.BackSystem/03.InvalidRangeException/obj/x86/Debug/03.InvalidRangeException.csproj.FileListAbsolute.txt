@@ -1,0 +1,1 @@
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\02.BackSystem\03.InvalidRangeException\bin\Debug\03.InvalidRangeException.exe.config

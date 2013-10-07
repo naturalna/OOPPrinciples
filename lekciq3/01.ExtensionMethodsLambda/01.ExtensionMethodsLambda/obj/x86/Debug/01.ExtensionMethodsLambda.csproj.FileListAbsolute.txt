@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\01.ExtensionMethodsLambda\bin\Debug\01.ExtensionMethodsLambda.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\01.ExtensionMethodsLambda\bin\Debug\01.ExtensionMethodsLambda.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\01.ExtensionMethodsLambda\obj\x86\Debug\01.ExtensionMethodsLambda.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\01.ExtensionMethodsLambda\obj\x86\Debug\01.ExtensionMethodsLambda.pdb

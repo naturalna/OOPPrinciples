@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\03.StudentsNameAndLINQ\bin\Debug\03.StudentsNameAndLINQ.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\03.StudentsNameAndLINQ\bin\Debug\03.StudentsNameAndLINQ.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\03.StudentsNameAndLINQ\obj\x86\Debug\03.StudentsNameAndLINQ.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\03.StudentsNameAndLINQ\obj\x86\Debug\03.StudentsNameAndLINQ.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq3\HW\01.ExtensionMethodsLambda\01.ExtensionMethodsLambda\03.StudentsNameAndLINQ\obj\x86\Debug\03.StudentsNameAndLINQ.exe
+C:\Users\user\Desktop\teleric\oop\lekciq3\HW\01.ExtensionMethodsLambda\01.ExtensionMethodsLambda\03.StudentsNameAndLINQ\obj\x86\Debug\03.StudentsNameAndLINQ.pdb

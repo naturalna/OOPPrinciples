@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\06.AutoGrouArray\bin\Debug\06.AutoGrouArray.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\06.AutoGrouArray\bin\Debug\06.AutoGrouArray.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\06.AutoGrouArray\obj\x86\Debug\06.AutoGrouArray.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\06.AutoGrouArray\obj\x86\Debug\06.AutoGrouArray.pdb

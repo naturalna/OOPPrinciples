@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\02.ExtensionMethodsForIEnumerable\bin\Debug\02.ExtensionMethodsForIEnumerable.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\02.ExtensionMethodsForIEnumerable\bin\Debug\02.ExtensionMethodsForIEnumerable.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\02.ExtensionMethodsForIEnumerable\obj\x86\Debug\02.ExtensionMethodsForIEnumerable.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\02.ExtensionMethodsForIEnumerable\obj\x86\Debug\02.ExtensionMethodsForIEnumerable.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq3\HW\01.ExtensionMethodsLambda\01.ExtensionMethodsLambda\02.ExtensionMethodsForIEnumerable\obj\x86\Debug\02.ExtensionMethodsForIEnumerable.exe
+C:\Users\user\Desktop\teleric\oop\lekciq3\HW\01.ExtensionMethodsLambda\01.ExtensionMethodsLambda\02.ExtensionMethodsForIEnumerable\obj\x86\Debug\02.ExtensionMethodsForIEnumerable.pdb

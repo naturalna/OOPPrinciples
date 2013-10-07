@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\uprajnenie\bin\Debug\uprajnenie.exe
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\uprajnenie\bin\Debug\uprajnenie.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\uprajnenie\obj\x86\Debug\uprajnenie.exe
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\uprajnenie\obj\x86\Debug\uprajnenie.pdb

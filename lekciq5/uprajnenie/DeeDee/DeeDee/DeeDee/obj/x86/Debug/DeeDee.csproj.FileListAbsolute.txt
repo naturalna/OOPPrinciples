@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\DeeDee\DeeDee\DeeDee\bin\x86\Debug\DeeDee.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\DeeDee\DeeDee\DeeDee\bin\x86\Debug\DeeDee.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\DeeDee\DeeDee\DeeDee\obj\x86\Debug\DeeDee.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\DeeDee\DeeDee\DeeDee\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\DeeDee\DeeDee\DeeDee\obj\x86\Debug\DeeDee.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\DeeDee\DeeDee\DeeDee\obj\x86\Debug\DeeDee.pdb

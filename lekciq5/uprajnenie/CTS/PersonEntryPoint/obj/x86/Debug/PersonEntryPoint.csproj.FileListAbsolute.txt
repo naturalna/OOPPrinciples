@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\CTS\PersonEntryPoint\bin\Debug\PersonEntryPoint.exe.config
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\CTS\PersonEntryPoint\bin\Debug\PersonEntryPoint.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\CTS\PersonEntryPoint\bin\Debug\PersonEntryPoint.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\CTS\PersonEntryPoint\obj\x86\Debug\PersonEntryPoint.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\CTS\PersonEntryPoint\obj\x86\Debug\PersonEntryPoint.pdb

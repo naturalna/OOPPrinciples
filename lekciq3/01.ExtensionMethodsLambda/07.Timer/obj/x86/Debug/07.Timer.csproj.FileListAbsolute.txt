@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\07.Timer\bin\Debug\07.Timer.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\07.Timer\bin\Debug\07.Timer.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\07.Timer\obj\x86\Debug\07.Timer.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\07.Timer\obj\x86\Debug\07.Timer.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\07.Timer\obj\x86\Debug\07.Timer.csprojResolveAssemblyReference.cache

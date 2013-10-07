@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\07.MatrixT\bin\Debug\07.MatrixT.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\07.MatrixT\bin\Debug\07.MatrixT.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\07.MatrixT\obj\x86\Debug\08.MatrixT.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\07.MatrixT\obj\x86\Debug\07.MatrixT.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\07.MatrixT\obj\x86\Debug\07.MatrixT.pdb

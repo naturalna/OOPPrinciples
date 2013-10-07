@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\05.NamesInDescendingOrder\bin\Debug\05.NamesInDescendingOrder.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\05.NamesInDescendingOrder\bin\Debug\05.NamesInDescendingOrder.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\05.NamesInDescendingOrder\obj\x86\Debug\05.NamesInDescendingOrder.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\01.ExtensionMethodsLambda\05.NamesInDescendingOrder\obj\x86\Debug\05.NamesInDescendingOrder.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq3\HW\01.ExtensionMethodsLambda\01.ExtensionMethodsLambda\05.NamesInDescendingOrder\obj\x86\Debug\05.NamesInDescendingOrder.exe
+C:\Users\user\Desktop\teleric\oop\lekciq3\HW\01.ExtensionMethodsLambda\01.ExtensionMethodsLambda\05.NamesInDescendingOrder\obj\x86\Debug\05.NamesInDescendingOrder.pdb

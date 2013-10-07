@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\DefiningClassesII\bin\Debug\DefiningClassesII.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\DefiningClassesII\bin\Debug\DefiningClassesII.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\DefiningClassesII\obj\x86\Debug\DefiningClassesII.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\DefiningClassesII\obj\x86\Debug\DefiningClassesII.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\DefiningClassesII\obj\x86\Debug\01.PointThreeD.csprojResolveAssemblyReference.cache

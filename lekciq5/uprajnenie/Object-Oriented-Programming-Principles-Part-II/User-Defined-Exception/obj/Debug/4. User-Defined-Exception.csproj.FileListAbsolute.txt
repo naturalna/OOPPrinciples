@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Object-Oriented-Programming-Principles-Part-II\User-Defined-Exception\bin\Debug\User-Defined-Exception.exe.config
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Object-Oriented-Programming-Principles-Part-II\User-Defined-Exception\bin\Debug\User-Defined-Exception.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Object-Oriented-Programming-Principles-Part-II\User-Defined-Exception\bin\Debug\User-Defined-Exception.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Object-Oriented-Programming-Principles-Part-II\User-Defined-Exception\obj\Debug\User-Defined-Exception.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\Object-Oriented-Programming-Principles-Part-II\User-Defined-Exception\obj\Debug\User-Defined-Exception.pdb

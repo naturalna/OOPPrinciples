@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\teleric\oop\podgotowka\Podgotowka\DocumentSystem\bin\Debug\DocumentSystem.exe.config
+C:\Users\user\Desktop\teleric\oop\podgotowka\Podgotowka\DocumentSystem\bin\Debug\DocumentSystem.exe
+C:\Users\user\Desktop\teleric\oop\podgotowka\Podgotowka\DocumentSystem\bin\Debug\DocumentSystem.pdb
+C:\Users\user\Desktop\teleric\oop\podgotowka\Podgotowka\DocumentSystem\obj\x86\Debug\DocumentSystem.exe
+C:\Users\user\Desktop\teleric\oop\podgotowka\Podgotowka\DocumentSystem\obj\x86\Debug\DocumentSystem.pdb
+C:\Users\user\Desktop\teleric\oop\podgotowka\Podgotowka - Copy\DocumentSystem\bin\Debug\DocumentSystem.exe.config
+C:\Users\user\Desktop\teleric\oop\podgotowka\Podgotowka - Copy\DocumentSystem\obj\x86\Debug\DocumentSystem.exe
+C:\Users\user\Desktop\teleric\oop\podgotowka\Podgotowka - Copy\DocumentSystem\obj\x86\Debug\DocumentSystem.pdb
+C:\Users\user\Desktop\teleric\oop\podgotowka\Podgotowka - Copy\DocumentSystem\bin\Debug\DocumentSystem.exe
+C:\Users\user\Desktop\teleric\oop\podgotowka\Podgotowka - Copy\DocumentSystem\bin\Debug\DocumentSystem.pdb
+C:\Users\user\Desktop\teleric\oop\podgotowka\HW-1\DocumentSystem\bin\Debug\DocumentSystem.exe.config
+C:\Users\user\Desktop\teleric\oop\podgotowka\HW-1\DocumentSystem\obj\x86\Debug\DocumentSystem.exe
+C:\Users\user\Desktop\teleric\oop\podgotowka\HW-1\DocumentSystem\obj\x86\Debug\DocumentSystem.pdb
+C:\Users\user\Desktop\teleric\oop\podgotowka\HW-1\DocumentSystem\bin\Debug\DocumentSystem.exe
+C:\Users\user\Desktop\teleric\oop\podgotowka\HW-1\DocumentSystem\bin\Debug\DocumentSystem.pdb
+C:\Users\user\Desktop\teleric\oop\podgotowka\HW-1\DocumentSystem\obj\x86\Debug\DocumentSystem.csprojResolveAssemblyReference.cache

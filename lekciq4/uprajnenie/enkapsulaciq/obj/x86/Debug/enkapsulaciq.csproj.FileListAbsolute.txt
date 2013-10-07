@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\enkapsulaciq\bin\Debug\enkapsulaciq.exe
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\enkapsulaciq\bin\Debug\enkapsulaciq.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\enkapsulaciq\obj\x86\Debug\enkapsulaciq.exe
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\enkapsulaciq\obj\x86\Debug\enkapsulaciq.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\enkapsulaciq\obj\x86\Debug\enkapsulaciq.csprojResolveAssemblyReference.cache

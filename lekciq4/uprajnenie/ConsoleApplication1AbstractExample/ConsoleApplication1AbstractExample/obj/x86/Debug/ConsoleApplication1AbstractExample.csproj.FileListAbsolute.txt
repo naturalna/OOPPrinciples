@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\teleric\oop\lekciq4\ConsoleApplication1AbstractExample\ConsoleApplication1AbstractExample\bin\Debug\ConsoleApplication1AbstractExample.exe
+C:\Users\user\Desktop\teleric\oop\lekciq4\ConsoleApplication1AbstractExample\ConsoleApplication1AbstractExample\bin\Debug\ConsoleApplication1AbstractExample.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq4\ConsoleApplication1AbstractExample\ConsoleApplication1AbstractExample\obj\x86\Debug\ConsoleApplication1AbstractExample.exe
+C:\Users\user\Desktop\teleric\oop\lekciq4\ConsoleApplication1AbstractExample\ConsoleApplication1AbstractExample\obj\x86\Debug\ConsoleApplication1AbstractExample.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\ConsoleApplication1AbstractExample\ConsoleApplication1AbstractExample\obj\x86\Debug\ConsoleApplication1AbstractExample.exe
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\ConsoleApplication1AbstractExample\ConsoleApplication1AbstractExample\obj\x86\Debug\ConsoleApplication1AbstractExample.pdb

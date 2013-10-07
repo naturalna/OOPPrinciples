@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\ExeptionsProba\bin\Debug\ExeptionsProba.exe.config
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\ExeptionsProba\bin\Debug\ExeptionsProba.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\ExeptionsProba\bin\Debug\ExeptionsProba.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\ExeptionsProba\obj\x86\Debug\ExeptionsProba.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\ExeptionsProba\obj\x86\Debug\ExeptionsProba.pdb

@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\teleric\oop\podgotowka\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe.config
+C:\Users\user\Desktop\teleric\oop\podgotowka\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe
+C:\Users\user\Desktop\teleric\oop\podgotowka\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.pdb
+C:\Users\user\Desktop\teleric\oop\podgotowka\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.exe
+C:\Users\user\Desktop\teleric\oop\podgotowka\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.pdb

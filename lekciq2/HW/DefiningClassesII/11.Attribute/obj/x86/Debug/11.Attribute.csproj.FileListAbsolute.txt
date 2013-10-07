@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\11.Attribute\bin\Debug\11.Attribute.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\11.Attribute\bin\Debug\11.Attribute.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\11.Attribute\obj\x86\Debug\11.Attribute.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\HW\DefiningClassesII\11.Attribute\obj\x86\Debug\11.Attribute.pdb

@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.PointThreeD", "DefiningClassesII\01.PointThreeD.csproj", "{CEF9ECEE-1453-4832-BCFA-43E7969C276F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.GenericExample", "05.GenericExample\05.GenericExample.csproj", "{A8F199D6-581C-4F8F-B35A-D51B0211E85E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.AutoGrowArray", "06.AutoGrouArray\06.AutoGrowArray.csproj", "{7426909E-8810-4B2C-BE26-973E530C3F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.MatrixT", "07.MatrixT\08.MatrixT.csproj", "{A315CF33-2AB4-4B03-BDE9-03A5176F5C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Attribute", "11.Attribute\11.Attribute.csproj", "{8D41C365-0BB2-4798-B44D-6BF5050538B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExeptionsProba", "ExeptionsProba\ExeptionsProba.csproj", "{30DDF908-D496-447F-99E2-2C55BE18B3A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEF9ECEE-1453-4832-BCFA-43E7969C276F}.Debug|x86.ActiveCfg = Debug|x86
+		{CEF9ECEE-1453-4832-BCFA-43E7969C276F}.Debug|x86.Build.0 = Debug|x86
+		{CEF9ECEE-1453-4832-BCFA-43E7969C276F}.Release|x86.ActiveCfg = Release|x86
+		{CEF9ECEE-1453-4832-BCFA-43E7969C276F}.Release|x86.Build.0 = Release|x86
+		{A8F199D6-581C-4F8F-B35A-D51B0211E85E}.Debug|x86.ActiveCfg = Debug|x86
+		{A8F199D6-581C-4F8F-B35A-D51B0211E85E}.Debug|x86.Build.0 = Debug|x86
+		{A8F199D6-581C-4F8F-B35A-D51B0211E85E}.Release|x86.ActiveCfg = Release|x86
+		{A8F199D6-581C-4F8F-B35A-D51B0211E85E}.Release|x86.Build.0 = Release|x86
+		{7426909E-8810-4B2C-BE26-973E530C3F70}.Debug|x86.ActiveCfg = Debug|x86
+		{7426909E-8810-4B2C-BE26-973E530C3F70}.Debug|x86.Build.0 = Debug|x86
+		{7426909E-8810-4B2C-BE26-973E530C3F70}.Release|x86.ActiveCfg = Release|x86
+		{7426909E-8810-4B2C-BE26-973E530C3F70}.Release|x86.Build.0 = Release|x86
+		{A315CF33-2AB4-4B03-BDE9-03A5176F5C4D}.Debug|x86.ActiveCfg = Debug|x86
+		{A315CF33-2AB4-4B03-BDE9-03A5176F5C4D}.Debug|x86.Build.0 = Debug|x86
+		{A315CF33-2AB4-4B03-BDE9-03A5176F5C4D}.Release|x86.ActiveCfg = Release|x86
+		{A315CF33-2AB4-4B03-BDE9-03A5176F5C4D}.Release|x86.Build.0 = Release|x86
+		{8D41C365-0BB2-4798-B44D-6BF5050538B2}.Debug|x86.ActiveCfg = Debug|x86
+		{8D41C365-0BB2-4798-B44D-6BF5050538B2}.Debug|x86.Build.0 = Debug|x86
+		{8D41C365-0BB2-4798-B44D-6BF5050538B2}.Release|x86.ActiveCfg = Release|x86
+		{8D41C365-0BB2-4798-B44D-6BF5050538B2}.Release|x86.Build.0 = Release|x86
+		{30DDF908-D496-447F-99E2-2C55BE18B3A9}.Debug|x86.ActiveCfg = Debug|x86
+		{30DDF908-D496-447F-99E2-2C55BE18B3A9}.Debug|x86.Build.0 = Debug|x86
+		{30DDF908-D496-447F-99E2-2C55BE18B3A9}.Release|x86.ActiveCfg = Release|x86
+		{30DDF908-D496-447F-99E2-2C55BE18B3A9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

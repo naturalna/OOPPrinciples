@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\teleric\oop\podgotowka\DocumentSystem-Solution\bin\Debug\DocumentSystem.exe.config
+C:\Users\user\Desktop\teleric\oop\podgotowka\DocumentSystem-Solution\bin\Debug\DocumentSystem.exe
+C:\Users\user\Desktop\teleric\oop\podgotowka\DocumentSystem-Solution\bin\Debug\DocumentSystem.pdb
+C:\Users\user\Desktop\teleric\oop\podgotowka\DocumentSystem-Solution\obj\Debug\DocumentSystem.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\teleric\oop\podgotowka\DocumentSystem-Solution\obj\Debug\DocumentSystem.exe
+C:\Users\user\Desktop\teleric\oop\podgotowka\DocumentSystem-Solution\obj\Debug\DocumentSystem.pdb

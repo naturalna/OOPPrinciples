@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\Abstrakciq\bin\Debug\Abstrakciq.exe
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\Abstrakciq\bin\Debug\Abstrakciq.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\Abstrakciq\obj\x86\Debug\Abstrakciq.exe
+C:\Users\user\Desktop\teleric\oop\lekciq4\uprajnenie\Abstrakciq\obj\x86\Debug\Abstrakciq.pdb

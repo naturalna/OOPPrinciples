@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\02.BackSystem\01.ShapeEntryPoint\bin\Debug\01.ShapeEntryPoint.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\02.BackSystem\01.ShapeEntryPoint\bin\Debug\01.ShapeEntryPoint.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\02.BackSystem\01.ShapeEntryPoint\obj\x86\Debug\01.ShapeEntryPoint.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\02.BackSystem\01.ShapeEntryPoint\obj\x86\Debug\01.ShapeEntryPoint.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\02.BackSystem\01.ShapeEntryPoint\obj\x86\Debug\01.ShapeEntryPoint.csprojResolveAssemblyReference.cache

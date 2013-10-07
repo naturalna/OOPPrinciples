@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\02.BackSystem\02.BackSystem\obj\x86\Debug\02.BackSystem.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\02.BackSystem\02.BackSystem\bin\Debug\02.BackSystem.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\02.BackSystem\02.BackSystem\bin\Debug\02.BackSystem.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\02.BackSystem\02.BackSystem\obj\x86\Debug\02.BackSystem.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\02.BackSystem\02.BackSystem\obj\x86\Debug\02.BankSystem.csprojResolveAssemblyReference.cache

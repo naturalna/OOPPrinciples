@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\CTS\BitArray64EntryPoint\bin\Debug\BitArray64EntryPoint.exe.config
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\CTS\BitArray64EntryPoint\bin\Debug\BitArray64EntryPoint.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\CTS\BitArray64EntryPoint\bin\Debug\BitArray64EntryPoint.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\CTS\BitArray64EntryPoint\obj\x86\Debug\BitArray64EntryPoint.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\CTS\BitArray64EntryPoint\obj\x86\Debug\BitArray64EntryPoint.pdb

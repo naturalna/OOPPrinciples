@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\izpit2\izpit2\bin\Debug\izpit2.exe.config
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\izpit2\izpit2\bin\Debug\izpit2.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\izpit2\izpit2\bin\Debug\izpit2.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\izpit2\izpit2\obj\x86\Debug\izpit2.exe
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\izpit2\izpit2\obj\x86\Debug\izpit2.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq5\uprajnenie\izpit2\izpit2\obj\x86\Debug\izpit2.csprojResolveAssemblyReference.cache
